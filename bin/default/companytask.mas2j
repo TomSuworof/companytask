@@ -1,0 +1,9 @@
+MAS companytask {
+
+    environment: example.Env(10)
+
+    agents: company;
+            customer;
+
+    aslSourcePath: "src/agt";
+}
